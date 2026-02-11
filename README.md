@@ -1,29 +1,30 @@
 # Hi there! I'm Vasyl Demchenko 👋
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/vasyl-demchenko-2385a9374/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vsldmch@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 ### About Me
 * **Education:** 3rd-year Computer Science student specializing in **Artificial Intelligence in Engineering** at Vistula University.
 * **Current Goal:** Seeking an internship or entry-level position as a **Junior AI Engineer**.
 * **Focus:** Passionate about Machine Learning, Data Analysis, and building scalable cloud-integrated applications.
 
 ### Tech Stack
-* **Programming Languages:** Python, C#, PHP, and SQL (MySQL).
-* **AI & Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.
-* **Cloud & Backend:** REST API development, PHP cURL, MS Azure, and InfinityFree hosting.
-* **Frontend & Visualization:** Plotly.js, Bootstrap, and HTML.
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
+![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Featured Projects
-* **[Cloud-Hosted Data Analytics Dashboard](https://project2026.lovestoblog.com/final_project/index.php)**
-    * [cite_start]Developed a fully functional dashboard using 4 custom **PHP REST APIs** to fetch MySQL cloud data[cite: 7, 33, 70].
-    * [cite_start]Integrated external financial data via the **NBP API** using the cURL method[cite: 8, 45, 50].
-    * [cite_start]Visualized business metrics using **Plotly.js** and **Bootstrap** for a responsive design[cite: 10, 54, 72].
-* **Data Analysis & Machine Learning**
-    * Performed data preprocessing and user segmentation using the **KMeans** algorithm in Python.
-    * Visualized dependencies and built predictive models using Regression and Decision Trees.
-* **Drawing Board (C#)**
-    * Engineered a desktop application for real-time vector graphics rendering (lines, circles, and rectangles).
-    * Utilized the Graphics API to manage low-level rendering and coordinate transformations.
-    * Implemented an event-driven architecture to handle dynamic user inputs.
 
-### Contact Me
-* **LinkedIn:** [https://www.linkedin.com/in/vasyl-demchenko-2385a9374/]
-* **Email:** [Your Email Address]
+<p align="center">
+  <i>"Passionate about turning complex data into intelligent solutions."</i>
+</p>
