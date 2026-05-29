@@ -3,10 +3,10 @@
 <h3 align="center">Intern/Junior AI/ML/Data Science Engineer | Computer Science Student | Based in Warsaw, Poland</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vsld9mch">
+  <a href="https://www.linkedin.com/in/vasyl-demchenko-2385a9374/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:vsl.9mch@gmail.com">
+  <a href="mailto:vsldmch@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -83,7 +83,7 @@ I love working with cloud technologies, automating processes in Python, and turn
 ## 📬 How to reach me
 
 * **LinkedIn:** [linkedin.com/in/vsld9mch](https://linkedin.com/in/vsld9mch) — feel free to connect for professional networking!
-* **Email:** [vsl.9mch@gmail.com](mailto:vsl.9mch@gmail.com) — available for internship opportunities and technical discussions.
+* **Email:** [vsl.9mch@gmail.com](mailto:vsldmch@gmail.com) — available for internship opportunities and technical discussions.
 * **Location:** Warsaw, Poland (Open to hybrid/onsite roles and relocation).
 
 ---
