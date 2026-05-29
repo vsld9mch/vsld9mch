@@ -82,8 +82,8 @@ I love working with cloud technologies, automating processes in Python, and turn
 
 ## 📬 How to reach me
 
-* **LinkedIn:** [linkedin.com/in/vsld9mch](https://linkedin.com/in/vsld9mch) — feel free to connect for professional networking!
-* **Email:** [vsl.9mch@gmail.com](mailto:vsldmch@gmail.com) — available for internship opportunities and technical discussions.
+* **LinkedIn:** [linkedin.com/in/vasyl-demchenko-2385a9374/](https://www.linkedin.com/in/vasyl-demchenko-2385a9374/) — feel free to connect for professional networking!
+* **Email:** [vsldmch@gmail.com](mailto:vsldmch@gmail.com) — available for internship opportunities and technical discussions.
 * **Location:** Warsaw, Poland (Open to hybrid/onsite roles and relocation).
 
 ---
